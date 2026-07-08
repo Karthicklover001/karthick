@@ -1,0 +1,23 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" rx="44" fill="#fff4e6"/>
+  <circle cx="450" cy="315" r="230" fill="#f8dca3" opacity=".48"/>
+  <path d="M155 480C185 365 239 270 323 204C389 153 513 145 590 199C675 259 720 360 745 480H155Z" fill="#861f2b" opacity=".16"/>
+  <path d="M210 500h480" stroke="#a9792b" stroke-width="14" stroke-linecap="round"/>
+  <path d="M245 184h410v40H245z" fill="#8b1e2d"/>
+  <path d="M277 224h36v275h-36zM587 224h36v275h-36z" fill="#a9792b"/>
+  <path d="M230 165h440l-35-48H265l-35 48Z" fill="#d7aa43"/>
+  <path d="M280 118c54 35 107 35 160 0 54 35 107 35 160 0" stroke="#8b1e2d" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="383" cy="283" r="47" fill="#4b1d14"/>
+  <path d="M321 505c14-110 40-170 63-170 31 0 61 67 75 170H321Z" fill="#b21f35"/>
+  <path d="M344 374c31 32 67 31 100 0" stroke="#f5c76a" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="531" cy="279" r="44" fill="#2f1b16"/>
+  <path d="M475 505c10-104 32-165 59-165 32 0 63 67 76 165H475Z" fill="#efe3c8"/>
+  <path d="M497 370c29 30 67 30 101 0" stroke="#8b1e2d" stroke-width="10" stroke-linecap="round"/>
+  <path d="M428 432c29 26 69 26 96 0" stroke="#a9792b" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="375" cy="277" r="8" fill="#fff"/><circle cx="536" cy="273" r="8" fill="#fff"/>
+  <g opacity=".8" fill="#c99734">
+    <circle cx="155" cy="130" r="10"/><circle cx="720" cy="105" r="9"/><circle cx="766" cy="198" r="7"/><circle cx="126" cy="270" r="7"/>
+    <circle cx="680" cy="420" r="10"/><circle cx="210" cy="430" r="8"/>
+  </g>
+  <text x="450" y="575" text-anchor="middle" font-size="34" font-family="Georgia" fill="#8b1e2d">V Karthick ♥ M Sharmiladevi</text>
+</svg>
